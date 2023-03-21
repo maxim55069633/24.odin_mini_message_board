@@ -14,4 +14,4 @@ In this project, I practice the Express basic I've already learned.
 
 I learned a templating language: pug.
 
-Find another good example from ![DutsAndrew](https://github.com/DutsAndrew/message-board)
+Find another good example from [DutsAndrew](https://github.com/DutsAndrew/message-board)
