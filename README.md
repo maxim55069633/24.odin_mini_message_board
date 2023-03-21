@@ -13,5 +13,4 @@ to start the app.
 In this project, I practice the Express basic I've already learned.
 
 I learned a templating language: pug.
-
-Find another good example from [DutsAndrew](https://github.com/DutsAndrew/message-board)
+Also found a good example of mini message board from [DutsAndrew](https://github.com/DutsAndrew/message-board)
